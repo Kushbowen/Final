@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EaseTrip</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_view_flights">ViewFlightsActivity</string>
+    <string name="title_activity_add_flights">AddFlightsActivity</string>
+</resources>
